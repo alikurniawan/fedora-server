@@ -1,0 +1,8 @@
+fedora-server-37 community
+#sudo dnf update
+#sudo yum grouplist
+#sudo yum groupinstall "Deepin Desktop"
+#sudo systemctl set-default graphical.target
+
+or 
+#sudo dnf install @deepin-desktop-environment
